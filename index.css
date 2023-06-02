@@ -1,0 +1,49 @@
+/* index.css */
+
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 20px;
+}
+
+.container1 {
+  margin: 20px;
+}
+
+.container2 {
+  margin: 20px;
+}
+
+/* Heading Styles */
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+/* Input Styles */
+input[type="text"] {
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Button Styles */
+button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+/* Disabled Input Styles */
+input[disabled] {
+  background-color: #ccc;
+  color: #666;
+}
